@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LAB_WEEK_12">
-        <activity android:name="com.example.lab_week_12.DetailsActivity"
+        <activity android:name="com.example.lab_week_12.DetailActivity"
             android:parentActivityName="com.example.lab_week_12.MainActivity" />
         <activity android:name="com.example.lab_week_12.MainActivity"
             android:exported="true">
